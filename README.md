@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm juan_taype</h1>
-<h3 align="center">Full Stack developer from Perú.</h3>
+<h1>Juan Eber Taype Escobar | <span > TAYPE DEV </span> </h1>
+<h3 align="center">Full Stack developer de Perú.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jetaype21&label=Profile%20views&color=0e75b6&style=flat" alt="jetaype21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jetaype21" alt="jetaype21" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/jetaypedev"><img src="https://github-profile-trophy.vercel.app/?username=jetaype21" alt="jetaype21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
